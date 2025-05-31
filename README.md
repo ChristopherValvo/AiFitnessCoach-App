@@ -6,8 +6,6 @@ After 3-4 months of work my app is finally done! Can you guess what personality 
 
 Come check out my free version of MyfitnessPal, which is valued at $15 a month. 
 
-https://lnkd.in/dPXuSM5H
-
 (This app makes working out fun again... or super serious... whatever YOU need to hold you accountable.)
 
 What makes my app unique? Your macro, workout, and goals that are set, get uploaded to my ChatGPT api, and it critiques your data!
